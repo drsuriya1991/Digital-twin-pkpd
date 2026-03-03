@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository implements a **physiologically-grounded Digital Twin framework** compliant with ISO-23247 standards. It rescues failed FAAH inhibitors by unmasking 80% responders hidden in population averages, using QSP-ODE simulations on 500 virtual patients.
+This repository implements a **physiologically-grounded Digital Twin framework** compliant with standards. It rescues failed FAAH inhibitors by unmasking 80% responders hidden in population averages, using QSP-ODE simulations on 500 virtual patients.
 
 Standard PK/PD modeling predicted only 15.3% peak CB1 occupancy at 10mg dosing, explaining Phase II failures. Digital twins reveal sustained engagement (>30h median) in low NAAA-clearance phenotypes
 
